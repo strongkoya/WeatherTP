@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WeatherTP</string>
+    <string name="clk">Veuillez Cliquer sur une ville</string>
+</resources>
